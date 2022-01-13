@@ -40,7 +40,7 @@ var fight = function() {
    else if (promptFight === "Sleep" || promptFight === "SLEEP"){
        var confrimSkip = window.confirm("Are you sure you want to skip this specific life battle?");
        if(confrimSkip) {
-       window.alert(playerName + "has chosen to skip this life battle!");
+       window.alert(playerName + "has chosen to skip this life battle! One more push so I can be proud of myself today. Still working though. Just don't know when I'll stop. But lets goooooooooo. ");
        playerMoney = playerMoney - 2;
        }
 
